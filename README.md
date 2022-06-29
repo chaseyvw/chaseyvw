@@ -4,7 +4,7 @@
 - 🧠 I currently know Python, Pygame, & C#
 - 💞️ I’m looking to collaborate on anything (I really want to expand)
 - 📫 You can reach me at my email chaseyvw@gmail.com
-*** I am currently working on adding in projects so I can use Github as a portfolio. Please NOTE that not all of my projects have been uploaded! Thanks! ***
+- *** I am currently working on adding in projects so I can use Github as a portfolio. Please NOTE that not all of my projects have been uploaded! Thanks! ***
 
 <!---
 chaseyvw/chaseyvw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

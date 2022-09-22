@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @chaseyvw
-- 👀 I’m interested in web development but my overall goal is to become full stack
 - 🌱 I’m currently learning Javascript, SQL, & C++
-- 🧠 I currently know Python, Pygame, & C#, HTML/CSS
-- 💞️ I’m looking to collaborate on anything (I really want to expand)
+- 🧠 I currently know Python, C#, & HTML/CSS
+- 💞️ I’m looking to collaborate on anything (I really want to expand my skills and abilities)
 - 📫 You can reach me at my email chaseyvw@gmail.com
-- *** I am currently working on adding in projects so I can use Github as a portfolio. Please NOTE that not all of my projects have been uploaded! Thanks! ***
+
+Current running websites that I have been a part creating and/or editing.
+-www.leapforwardweb.com/ 
+-https://deafandhoh.com/
 
 <!---
 chaseyvw/chaseyvw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

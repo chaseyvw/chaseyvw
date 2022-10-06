@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything (I really want to expand my skills and abilities)
 - 📫 You can reach me at my email chaseyvw@gmail.com
 
-https://bit.ly/webdesignbychasey
+Need a website? --> https://bit.ly/webdesignbychasey
 
 Current running websites that I have been a part creating and/or editing.
 -www.leapforwardweb.com/ 

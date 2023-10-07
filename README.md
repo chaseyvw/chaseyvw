@@ -3,7 +3,7 @@
 - 🧠 I have professional experience with HTML, CSS, JavaScript, Python, and C#
 - 📫 You can reach me at my email chaseyvw@gmail.com
 
-Current running websites and microsites that I have been a part creating and/or editing.
+Current running websites and microsites that I have been a part of creating and/or editing.
 - https://www.fluke.com/en-us
 - https://chaseyvw.github.io/Portfolio-Website/
 - www.leapforwardweb.com/ 
